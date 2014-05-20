@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tokenAuthRequest>
+    <accessKeyId>
+    MTA1MzExMzM1NDYyMTAxNjIz
+    MTA1MzExMzM1NDYyMTAxNjIz
+    
+    
+    </accessKeyId>
+    <privateAccessKey>
+    YjZmYzdmMDBmZWQ1NDE3ZTliMTMxNWE0ZDdhODg4YT
+    YjZmYzdmMDBmZWQ1NDE3ZTliMTMxNWE0ZDdhODg4YTc</privateAccessKey>
+    <refreshToken>http://qa1:9380/app-authorization/A31303533312f365f3235363534</refreshToken>
+</tokenAuthRequest>
+
+  <accessKeyId>MTA1MzExMzM1NDYyMTAxNjIz</accessKeyId>    
+     <privateAccessKey>YjZmYzdmMDBmZWQ1NDE3ZTliMTMxNWE0ZDdhODg4YTc</privateAccessKey>
